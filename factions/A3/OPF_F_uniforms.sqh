@@ -1,0 +1,58 @@
+uniforms[] =
+{
+//===========================================================================
+// UNIFORMS
+//===========================================================================
+
+	{"O_CombatUniform_TB_JOR_Arid", {__ICE_gear_infantryRoles}}, // KA2 Arid
+	{"O_CombatUniform_TB_JOR_Royal", {__ICE_gear_infantryRoles}}, // KA2 Royal Guard
+	{"O_CombatUniform_TB_JOR_Woodland", {__ICE_gear_infantryRoles}}, // KA2 Royal Guard
+
+	{"U_O_GhillieSuit", {__ICE_gear_Sniper}},
+	{"U_O_SpecopsUniform_ocamo", {__ICE_gear_Crewman}}, // Recon Fatigues (Hex)
+	{"U_O_PilotCoveralls", {__ICE_gear_Pilot}}, // Pilot Coveralls (CSAT)
+	
+	{"U_O_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_sard", {__ICE_gear_Sniper}},
+
+//===========================================================================
+// VESTS
+//===========================================================================
+
+	{"V_HarnessOSpec_brn", {__ICE_gear_infantryRoles}}, // ELBV Harness
+	{"V_HarnessOSpec_gry", {__ICE_gear_infantryRoles}}, // ELBV Harness (Gray)
+	{"V_HarnessO_brn", {__ICE_gear_infantryRoles}}, // LBV Harness
+	{"V_HarnessO_gry", {__ICE_gear_infantryRoles}}, // LBV Harness (Gray)
+	{"V_HarnessOGL_brn", {__ICE_gear_infantryRoles}}, // LBV Grenadier Harness
+	{"V_HarnessOGL_gry", {__ICE_gear_infantryRoles}}, // LBV Grenadier Harness (Gray)
+
+	{"V_BandollierB_cbr", {__ICE_gear_infantryRoles}}, // Bandolier (Coyote)
+	{"V_BandollierB_rgr", {__ICE_gear_infantryRoles}}, // Bandolier (Green)
+	{"V_BandollierB_khk", {__ICE_gear_infantryRoles}}, // Bandolier (Khaki)
+	{"V_BandollierB_oli", {__ICE_gear_infantryRoles}}, // Bandolier (Olive)
+
+	{"V_TacVest_blk", {__ICE_gear_infantryRoles}}, // Tactical Vest (Black)
+	{"V_TacVest_brn", {__ICE_gear_infantryRoles}}, // Tactical Vest (Brown)
+	{"V_TacVest_oli", {__ICE_gear_infantryRoles}}, // Tactical Vest (Olive)
+	{"V_TacVest_camo", {__ICE_gear_infantryRoles}}, // Tactical Vest (Camo)
+	{"V_TacVest_khk", {__ICE_gear_infantryRoles}}, // Tactical Vest (Khaki)
+	{"V_Rangemaster_belt", {__ICE_gear_allRoles}}, // 10
+	//{"V_RebreatherB", {__ICE_gear_Crewman}}, // 0
+
+//===========================================================================
+// HELMETS
+//===========================================================================
+
+	{"H_HelmetIA_JOR_Arid", {__ICE_gear_infantryRoles}},
+	{"H_HelmetIA_JOR_Royal", {__ICE_gear_infantryRoles}},
+	{"H_HelmetIA_JOR_Woodland", {__ICE_gear_infantryRoles}},
+
+	{"H_Bandanna_sand", {__ICE_gear_infantryRoles}}, // Bandana (Sand)
+	{"H_Bandanna_cbr", {__ICE_gear_infantryRoles}}, // Bandana (Coyote)
+	{"H_MilCap_ocamo", {__ICE_gear_SL}},
+
+	{"H_HelmetCrew_O", {__ICE_gear_Crewman}},
+	{"H_CrewHelmetHeli_O", {__ICE_gear_Pilot}},
+	{"H_PilotHelmetHeli_O", {__ICE_gear_Pilot}}
+};

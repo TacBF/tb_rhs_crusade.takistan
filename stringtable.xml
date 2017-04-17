@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Witches_Cauldron">
+
+	<Key ID="STR_TB_missionTitle_TB_Witches_Cauldron">
+		<Original>Witches Cauldron</Original>
+		<English>Witches Cauldron</English>
+		<German>Witches Cauldron</German>
+		<Italian>Witches Cauldron</Italian>
+		<Spanish>Witches Cauldron</Spanish>
+		<French>Witches Cauldron</French>
+		<Czech>Witches Cauldron</Czech>
+		<Russian>Witches Cauldron</Russian>
+		<Polish>Witches Cauldron</Polish>
+		<Hungarian>Witches Cauldron</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Witches_Cauldron">
+		<Original>TacBF A&amp;D [L-50]: Witches Cauldron</Original>
+		<English>TacBF A&amp;D [L-50]: Witches Cauldron</English>
+		<German>TacBF A&amp;D [L-50]: Witches Cauldron</German>
+		<Italian>TacBF A&amp;D [L-50]: Witches Cauldron</Italian>
+		<Spanish>TacBF A&amp;D [L-50]: Witches Cauldron</Spanish>
+		<French>TacBF A&amp;D [L-50]: Witches Cauldron</French>
+		<Czech>TacBF A&amp;D [L-50]: Witches Cauldron</Czech>
+		<Russian>TacBF A&amp;D [L-50]: Witches Cauldron</Russian>
+		<Polish>TacBF A&amp;D [L-50]: Witches Cauldron</Polish>
+		<Hungarian>TacBF A&amp;D [L-50]: Witches Cauldron</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

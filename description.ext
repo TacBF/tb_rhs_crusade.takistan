@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_Crusade.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName=$STR_TB_missionTitle_TB_Crusade;
+overviewPicture = "tb_Crusade.jpg";
+author="Clay feat. CharlieTwoFive";
+onLoadMission="Tactical Battlefield: <t color='#FF00A5A5'>Attack and Defend (A&amp;D)</t><br />Desert, hills, towns.<br /><t color='#FF00AEFF'>US</t> &amp; <t color='#FFD66361'>RU</t> = light vehicles, APCs, tanks, air. FOs, RPs, MWs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"

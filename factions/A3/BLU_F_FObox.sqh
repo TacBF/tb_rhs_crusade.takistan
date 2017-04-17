@@ -1,0 +1,10 @@
+class ICE_ForwardOutpost_container_WestMG
+{
+     crateContents[] = {
+        RDS_M2StaticMG_MiniTripod_AAF,
+        {RDS_M2StaticMG_AAF, 2},
+        {ICE_emptyHescoBagsStack, 4}
+     };
+     crateMass = 1750;
+     proxyObject = "ICE_ForwardOutpost_container_WestMG";
+};
